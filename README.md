@@ -108,10 +108,6 @@ duas vezes não duplica posts, e cada execução fica registrada na tabela `carg
 - Ler dados direto de APIs das plataformas, em vez de arquivos exportados.
 - Agendar a execução automática do pipeline.
 
-## Uso de IA
-
-Código desenvolvido com auxílio de IA (Claude) e revisado pelo autor.
-
 ## Autor
 
 Luccas Nunes - [github.com/luccas-data](https://github.com/luccas-data)
